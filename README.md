@@ -2,7 +2,7 @@
 
 Calculate graph statistics on different random graph models
 
-Just a small project to learn some C++ multithreading fundimentals and do some research on a fun little area of graph theory
+Just a small project to learn some C++ multithreading fundamentals and do some research on a fun little area of graph theory
 
 ### Building
 
@@ -73,7 +73,7 @@ Specify the number of threads to use when calculating statistics. The program wi
 
 -   `-d, --degree`
 
-    Calculate the degree of the vertices. For a vertex v, the degree is the numnber of edges (i,j) such that v = i or v = j
+    Calculate the degree of the vertices. For a vertex v, the degree is the number of edges (i,j) such that v = i or v = j
 
 -   `-D, --diameter`
 
